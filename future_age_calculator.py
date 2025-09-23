@@ -2,7 +2,7 @@
 
 # Ask for current age
 
-current_age = int(input(f"How old are you? "))
+current_age = int(input("How old are you? "))
 
 # Years until 2050
 
